@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ntegrates with the Pods Framework to allow adding groups of fields to many areas of Paid Membership Pro including Member Profiles, the Checkout page, the Membership Level forms, and the Order forms.
+Integrates with the Pods Framework to allow adding groups of fields to many areas of Paid Membership Pro including Member Profiles, the Checkout page, the Membership Level forms, and the Order forms.
 
 == Description ==
 This Add On offers integration for the Pods Framework to be able to extend Paid Memberships Pro forms including:
